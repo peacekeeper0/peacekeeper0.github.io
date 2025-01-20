@@ -3,7 +3,7 @@ author:
   name: Michael Yasumoto
 
 description: >
-  Technical blog posts on digital forensics topics.
+  Technical posts on low level digital forensic topics.
 
 #theme: minima
 # If GitHub Pages still uses Minima < 3.0 (https://pages.github.com/versions/) then disable above and use
@@ -16,7 +16,7 @@ plugins:
 header_pages:
 
 # Set to `true` to show excerpts on the homepage.
-#show_excerpts: false
+show_excerpts: false
 
 minima:
   skin: auto
