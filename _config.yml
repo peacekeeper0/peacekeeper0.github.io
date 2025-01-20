@@ -1,0 +1,24 @@
+title: Digital Forensics Research Blog
+author:
+  name: Michael Yasumoto
+
+description: >
+  Technical blog posts on digital forensics topics.
+
+#theme: minima
+# If GitHub Pages still uses Minima < 3.0 (https://pages.github.com/versions/) then disable above and use
+remote_theme: jekyll/minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+header_pages:
+
+show_excerpts: true
+
+minima:
+  skin: auto
+  date_format: "%Y-%m-%d"
+  social_links:
+    - { platform: linkedin,       user_url: "https://www.linkedin.com/in/michaelyasumoto" }
