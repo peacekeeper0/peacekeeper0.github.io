@@ -2,7 +2,7 @@
 layout: post
 title: "Testing the Effects of TRIM on SMR Drives and Collection Workarounds"
 date: 2025-01-27 18:00:00 -0800
-categories: "Evidence Collection"
+categories: Evidence_Collection
 ---
 
 To be posted soon.
